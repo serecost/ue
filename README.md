@@ -1,4 +1,4 @@
-# Pregunta de Burritos
+# Pregunta
 
 Esta es una página web simple que hace una pregunta. Hay dos botones para responder: "Sí" y "No".
 
